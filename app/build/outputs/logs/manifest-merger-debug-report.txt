@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\80b269c614b8fb47ca7d35c072ac9fa6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\751040499e5ac42faa9a41f714b3980e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\22f76f51095adaac15b606b13d3ced3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\6de8640750a3560f823292f465f2f9d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\11a8ffb0fc8bd41f07aabb9434609d02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\758c40cdc642304b1763be32d4bf177e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\858c969ff3f2b9da01e917fb8b316602\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\99c2ed251ff8b081b15c39132381c10e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\9ce3d7ec16cf8d6e4ee07f686d2363b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\a8beae33c27d632fc788cfa33c38b7ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\1055bd45e8274c48101e94bb0ecdecb1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\07fbc879ea474a97c8751cdc6b88f2e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\e4d43cfee80ea70f09604254d6384188\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\9db7e2b65eb31d7dc8077b845a69b1a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\756e66556815b637ecb1c6e611644ab3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\8731fdb001fe4eeea08723758221722c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\7b579c075b0e36243bbb9d117f9cd364\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\4a191f5b9d91b9ae1a127a03788baeba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\51b081d0e0581bcc7bcdb2285ca2a640\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\20d35b39136bb372e7531325d8d35aab\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\94e17fb959162d969aab7bcff9834bf3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\f3b1df63fe438570a3edf0aa40320d01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\43e40d0e55c0cc93d75503835fadca80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\33e3816feb1125db5d02556abf6bca57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\c044bb25d87380e0fc94f1fdefec8494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\38f38971507f6d636fa76dd5e998f0b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\ffc5df20e3b0aff33c9930aeba1c3498\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\ec4409b5d580e0c3a1ff1f5f17aa7cdb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\700c7391927f15cf9057959394d408e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\73c805b47e72d8abce2a995de2c17b50\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\13f990f35f2895bfe2ae337fdf746502\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:1-19:12
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:5:5-17:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\80b269c614b8fb47ca7d35c072ac9fa6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\80b269c614b8fb47ca7d35c072ac9fa6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\751040499e5ac42faa9a41f714b3980e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\751040499e5ac42faa9a41f714b3980e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\51b081d0e0581bcc7bcdb2285ca2a640\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\51b081d0e0581bcc7bcdb2285ca2a640\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\20d35b39136bb372e7531325d8d35aab\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\20d35b39136bb372e7531325d8d35aab\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\51b081d0e0581bcc7bcdb2285ca2a640\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.math.tictactoenbandroid.MainActivity
+ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:12:9-16:20
+	android:label
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml:13:13-41
+uses-sdk
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\80b269c614b8fb47ca7d35c072ac9fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\80b269c614b8fb47ca7d35c072ac9fa6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\751040499e5ac42faa9a41f714b3980e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\751040499e5ac42faa9a41f714b3980e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\22f76f51095adaac15b606b13d3ced3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\22f76f51095adaac15b606b13d3ced3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\6de8640750a3560f823292f465f2f9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\6de8640750a3560f823292f465f2f9d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\11a8ffb0fc8bd41f07aabb9434609d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\11a8ffb0fc8bd41f07aabb9434609d02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\758c40cdc642304b1763be32d4bf177e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\758c40cdc642304b1763be32d4bf177e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\858c969ff3f2b9da01e917fb8b316602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\858c969ff3f2b9da01e917fb8b316602\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\99c2ed251ff8b081b15c39132381c10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\99c2ed251ff8b081b15c39132381c10e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\9ce3d7ec16cf8d6e4ee07f686d2363b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\9ce3d7ec16cf8d6e4ee07f686d2363b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\a8beae33c27d632fc788cfa33c38b7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\a8beae33c27d632fc788cfa33c38b7ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\1055bd45e8274c48101e94bb0ecdecb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\1055bd45e8274c48101e94bb0ecdecb1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\07fbc879ea474a97c8751cdc6b88f2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\07fbc879ea474a97c8751cdc6b88f2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\e4d43cfee80ea70f09604254d6384188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\e4d43cfee80ea70f09604254d6384188\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\9db7e2b65eb31d7dc8077b845a69b1a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\9db7e2b65eb31d7dc8077b845a69b1a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\756e66556815b637ecb1c6e611644ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\756e66556815b637ecb1c6e611644ab3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\8731fdb001fe4eeea08723758221722c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\8731fdb001fe4eeea08723758221722c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\7b579c075b0e36243bbb9d117f9cd364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\7b579c075b0e36243bbb9d117f9cd364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\4a191f5b9d91b9ae1a127a03788baeba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\4a191f5b9d91b9ae1a127a03788baeba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\51b081d0e0581bcc7bcdb2285ca2a640\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\51b081d0e0581bcc7bcdb2285ca2a640\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\20d35b39136bb372e7531325d8d35aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\20d35b39136bb372e7531325d8d35aab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\94e17fb959162d969aab7bcff9834bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\94e17fb959162d969aab7bcff9834bf3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\f3b1df63fe438570a3edf0aa40320d01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\f3b1df63fe438570a3edf0aa40320d01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\43e40d0e55c0cc93d75503835fadca80\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\43e40d0e55c0cc93d75503835fadca80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\33e3816feb1125db5d02556abf6bca57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\33e3816feb1125db5d02556abf6bca57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\c044bb25d87380e0fc94f1fdefec8494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\c044bb25d87380e0fc94f1fdefec8494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\38f38971507f6d636fa76dd5e998f0b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\38f38971507f6d636fa76dd5e998f0b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\ffc5df20e3b0aff33c9930aeba1c3498\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\ffc5df20e3b0aff33c9930aeba1c3498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\ec4409b5d580e0c3a1ff1f5f17aa7cdb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\ec4409b5d580e0c3a1ff1f5f17aa7cdb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\700c7391927f15cf9057959394d408e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\700c7391927f15cf9057959394d408e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\73c805b47e72d8abce2a995de2c17b50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\73c805b47e72d8abce2a995de2c17b50\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\13f990f35f2895bfe2ae337fdf746502\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Nivanz Aricayos\.gradle\caches\transforms-2\files-2.1\13f990f35f2895bfe2ae337fdf746502\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nivanz Aricayos\Documents\Codes\Projects\TictactoeNBAndroid\app\src\main\AndroidManifest.xml

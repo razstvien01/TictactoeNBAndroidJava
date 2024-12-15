@@ -1,0 +1,7 @@
+#Sun Dec 15 13:11:31 PST 2024
+base.1=C\:\\Users\\Nivanz Aricayos\\Documents\\Codes\\Projects\\TictactoeNBAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+path.1=classes.dex
+base.0=C\:\\Users\\Nivanz Aricayos\\Documents\\Codes\\Projects\\TictactoeNBAndroid\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

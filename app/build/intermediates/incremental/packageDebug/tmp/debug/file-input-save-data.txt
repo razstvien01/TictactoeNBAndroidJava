@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Dec 15 13:11:31 PST 2024
+0.base=C\:\\Users\\Nivanz Aricayos\\Documents\\Codes\\Projects\\TictactoeNBAndroid\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=C\:\\Users\\Nivanz Aricayos\\Documents\\Codes\\Projects\\TictactoeNBAndroid\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.set=DEX
